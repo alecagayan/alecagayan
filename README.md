@@ -1,4 +1,4 @@
-### Hello! I'm Alec
+### Hello! I'm Alec.
 Welcome to my README!
 
 ### Languages
